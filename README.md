@@ -16,15 +16,15 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning python and other programming languages
 
 - 📫 How to reach me **surakshak2409@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Dance and Music🎵 are the reasons to live.
 
 <br>
 
-<!--EDIT starts here -->
+-<!--EDIT ENDS here -->
 
 
 
